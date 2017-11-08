@@ -1,0 +1,8 @@
+title: Chorus
+description: Control your Kodi entertainment system with a web browser
+google_analytics: UA-70330912-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
